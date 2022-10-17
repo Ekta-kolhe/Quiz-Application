@@ -6,7 +6,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		loginPage lp=new loginPage();
 		lp.studentLogIn();
-		
+		lp.AddDetail();
 	}
 
 }
